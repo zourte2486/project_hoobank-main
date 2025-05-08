@@ -26,7 +26,6 @@ import people03 from "./people03.png";
 import card1 from "./card1.svg";
 import card2 from "./card2.svg";
 import card3 from "./card3.svg";  
-import vector from "./Vector.svg";
 import robotHand from "./robotHand.svg";
 
 
@@ -59,6 +58,5 @@ export {
   card1,
   card2,
   card3,
-  vector,
   robotHand,
 };
