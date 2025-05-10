@@ -7,7 +7,7 @@ const Billing = () => (
       <img
         src={bill}
         alt="billing"
-        className="w-[100%] h-[100%] relative z-[5] animate-bounce-slow"
+        className="w-[100%] h-[100%] relative z-[5]"
       />
 
       {/* gradient start */}
